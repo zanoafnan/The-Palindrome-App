@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">palindromeapp</string>
+    <string name="backbutton">backButton</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_a_user">Choose a user</string>
+    <string name="logoimage">logoImage</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="can_t_display_users_now_n_please_try_again_later">Cannot find users now. \n   Please try again later</string>
+</resources>
